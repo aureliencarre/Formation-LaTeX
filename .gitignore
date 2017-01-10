@@ -3,3 +3,16 @@
 
 # OSX shitty Finder temporary files
 *.DS_Store
+
+# Others
+
+*.blg
+*.out
+*.brf
+*.spl
+*.bbl
+*.aux
+*.synctex.gz
+*.log
+*.pyc
+*~
