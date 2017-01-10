@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.11.14)  10 JAN 2017 14:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.11.14)  10 JAN 2017 14:33
 entering extended mode
 **"./Latex et python.tex"
 ("Latex et python.tex"
@@ -638,22 +638,32 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 16.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [1
+)
+<fete-science.jpg, id=1, 948.54375pt x 948.54375pt>
+File: fete-science.jpg Graphic file (type jpg)
+ <use fete-science.jpg>
+Package pdftex.def Info: fete-science.jpg used on input line 22.
+(pdftex.def)             Requested size: 241.84843pt x 241.83926pt.
 
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
-<Oscillateur.pdf, id=7, 483.30562pt x 241.20113pt>
+[1
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <./fete-science.jpg>]
+<Oscillateur.pdf, id=8, 483.30562pt x 241.20113pt>
 File: Oscillateur.pdf Graphic file (type pdf)
  <use Oscillateur.pdf>
-Package pdftex.def Info: Oscillateur.pdf used on input line 26.
+Package pdftex.def Info: Oscillateur.pdf used on input line 33.
 (pdftex.def)             Requested size: 483.30444pt x 241.20052pt.
 
-[2 <./Oscillateur.pdf>] [3] [4] ("Latex et python.aux") ) 
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[2] [3 <./Oscillateur.pdf>] [4] ("Latex et python.aux") ) 
 Here is how much of TeX's memory you used:
- 4703 strings out of 493334
- 61489 string characters out of 3136665
- 235609 words of memory out of 3000000
- 8140 multiletter control sequences out of 15000+200000
- 24260 words of font info for 50 fonts, out of 3000000 for 9000
+ 4714 strings out of 493334
+ 61642 string characters out of 3136665
+ 236609 words of memory out of 3000000
+ 8147 multiletter control sequences out of 15000+200000
+ 29083 words of font info for 52 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  40i,6n,30p,250b,439s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files (x86
@@ -664,9 +674,9 @@ ype1/bitstrea/charter/bchri8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type
 1/mathdesign/mdbch/md-chr7t.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/
 mathdesign/mdbch/md-chr7y.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/ma
 thdesign/mdbch/md-chri7m.pfb>
-Output written on "Latex et python.pdf" (4 pages, 151470 bytes).
+Output written on "Latex et python.pdf" (4 pages, 249247 bytes).
 PDF statistics:
- 55 PDF objects out of 1000 (max. 8388607)
+ 56 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
