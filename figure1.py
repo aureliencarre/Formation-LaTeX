@@ -24,7 +24,7 @@ plt.rc('text.latex', preamble =
        """\usepackage[T1]{fontenc}
        \usepackage[bitstream-charter]{mathdesign}
        """)
-rcParams["xtick.labelsize"] = 9.
+rcParams["xtick.labelsize"] = 16.
 rcParams["ytick.labelsize"] = 9.
 rcParams['axes.labelsize'] = 10.
 rcParams['axes.titlesize'] = 12.
