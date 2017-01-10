@@ -1,6 +1,3 @@
-# Vim Swapfiles
-*.swp
-
 # OSX shitty Finder temporary files
 *.DS_Store
 
@@ -16,3 +13,19 @@
 *.log
 *.pyc
 *~
+
+*.aux
+*.log
+*.gz
+
+Latex et python.pdf
+
+Latex et python.log
+
+*.gz
+
+*.pdf
+
+*.log
+
+*.gz
