@@ -1,8 +1,7 @@
-# Vim Swapfiles
-*.swp
-
 # OSX shitty Finder temporary files
 *.DS_Store
+
+# Others
 *.aux
 *.log
 *.gz
