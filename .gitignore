@@ -3,3 +3,6 @@
 
 # OSX shitty Finder temporary files
 *.DS_Store
+*.aux
+*.log
+*.gz
