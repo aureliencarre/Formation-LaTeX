@@ -39,3 +39,11 @@ Latex et python.log
 *.pdf
 
 *.gz
+
+Latex et python.pdf
+
+*.aux
+
+*.log
+
+*.pdf
