@@ -29,3 +29,13 @@ Latex et python.log
 *.log
 
 *.gz
+
+*.aux
+
+*.aux
+
+*.log
+
+*.pdf
+
+*.gz
